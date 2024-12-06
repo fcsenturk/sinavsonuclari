@@ -1,0 +1,2 @@
+# sinavsonuclari
+ilk JS çalışmam
